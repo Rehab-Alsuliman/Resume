@@ -1,3 +1,3 @@
 # Rehab's Resume.
 
-[About Us](about.md)      [Contact Us]
+[About Us](about.md)      [Contact Us](contact.md)
