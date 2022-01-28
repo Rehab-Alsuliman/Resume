@@ -9,10 +9,10 @@
     <th>Computer Sciences</th>
   </tr>
   <tr>
-    <th>Bachelor`s degree</th>
   </tr>
   <tr>
     <td>Princess Nourah bent Abdurahman University</td>
+    <td>Bachelor`s degree</td>
   </tr>
   
   <tr>
