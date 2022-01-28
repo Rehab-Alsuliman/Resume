@@ -13,9 +13,11 @@
   <tr>
     <td>Princess Nourah bent Abdurahman University</td>
   </tr>
+  <tr>
   <td>
     <td>Bachelor`s degree</td>
   </td>
+  </tr>
   <tr>
     <td>2015 - 2018</td>
   </tr>
