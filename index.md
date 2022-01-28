@@ -12,9 +12,10 @@
   </tr>
   <tr>
     <td>Princess Nourah bent Abdurahman University</td>
-    <td>Bachelor`s degree</td>
   </tr>
-  
+  <td>
+    <td>Bachelor`s degree</td>
+  </td>
   <tr>
     <td>2015 - 2018</td>
   </tr>
